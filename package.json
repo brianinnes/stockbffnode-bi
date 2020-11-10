@@ -2,7 +2,7 @@
   "name": "stockbffnode-bi",
   "version": "1.0.0",
   "org": "my-org",
-  "description": "Code pattern for starting a typescript-based microservice",
+  "description": "Stock App backend for front",
   "main": "index.js",
   "config": {
     "protocol": "http",
